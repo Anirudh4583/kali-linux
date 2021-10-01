@@ -2,7 +2,7 @@ import java.util.*;
 
 public class BucketSort {
     
-    
+    //have to learn DSA ITS HIGH TIME NOW
     void sort(int a[]){
         
         int max =a[0];
